@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning R
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I'm not battling with my codes, I play video games
+- ⚡ Fun fact: When I'm not battling with my codes, I play video games!
 <!--
 **Getrudeaturu/Getrudeaturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
